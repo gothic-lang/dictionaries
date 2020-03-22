@@ -1,6 +1,6 @@
-# Occidental Dictionaries
+# Gothic Dictionaries
 
-This repository is an effort to liberate Occidental dictionary data from walled gardens.
+This repository is an effort to liberate Gothic dictionary data from walled gardens.
 
 Slowly but surely, we are gathering dictionary data from various sources and translating them to the open and free format of CSV.
 
@@ -16,7 +16,7 @@ If you would like to add or edit rows to some dictionaries, simply:
 
 3. Submit a Pull Request back to this repository
 
-The [website](http://occidental-lang.com/dictionaries) will automatically update along with the dictionaries because it dynamically pulls the CSVs every time it loads the page.
+The [website](http://gothic-lang.github.io/dictionaries) will automatically update along with the dictionaries because it dynamically pulls the CSVs every time it loads the page.
 
 ## Libraries Used
 
